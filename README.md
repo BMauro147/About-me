@@ -22,27 +22,26 @@
 ---
 ## 🧑‍💻 **Skills and Tools**
 
-- **Programming Languages**:  
-  - Python  
-  - SQL  
-  - C++
+**Programming Languages**:  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-- **Test Automation**:  
-  - Selenium WebDriver  
-  - Pytest  
-  - Requests
+**Test Automation**:  
+- ![Selenium WebDriver](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+- ![Pytest](https://img.shields.io/badge/Pytest-8A0F20?style=flat&logo=pytest&logoColor=white)
+- ![Requests](https://img.shields.io/badge/Requests-FF4D00?style=flat&logo=requests&logoColor=white)
 
-- **Manual Testing Tools**:  
-  - Jira  
-  - Postman  
-  - Android Studio
+**Manual Testing Tools**:  
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-- **Other Tools**:  
-  - Git  
-  - GitHub  
-  - Jenkins  
-  - Docker
----
+**Other Tools**:  
+- ![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📬 **¡Contact me!**
 
