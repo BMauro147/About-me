@@ -1,4 +1,4 @@
-![Banner](https://github.com/TuUsuario/TuRepositorio/raw/main/nombre-del-banner.jpg)
+![Banner](Banner Para LinkedIn Desarrollador De Software Moderno Negro.png)
 # 👨‍💻 **Hello! I am Mauro Becerra**  
 **QA Engineer | Passionate about technology and automation**  
 🎓 Graduate from **TripleTen** BootCamp QA Engineer with knowledge in Python, Selenium, and Manual Testing.  
