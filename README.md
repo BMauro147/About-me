@@ -1,5 +1,5 @@
-# About-me
-# 👨‍💻 **Hello! I am Jorg Caceres**  
+![Banner](https://github.com/TuUsuario/TuRepositorio/raw/main/nombre-del-banner.jpg)
+# 👨‍💻 **Hello! I am Mauro Becerra**  
 **QA Engineer | Passionate about technology and automation**  
 🎓 Graduate from **TripleTen** BootCamp QA Engineer with knowledge in Python, Selenium, and Manual Testing.  
 📍 From Mexico, eager to learn and grow in the software industry.
@@ -64,7 +64,7 @@
 
 ---
 
-> "El software de calidad se construye con pasión, curiosidad y esfuerzo." 💡
+> "Testing is not about finding bugs, it's about ensuring the best possible experience for the user." 💡
 
 ---
 
