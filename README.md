@@ -42,20 +42,6 @@
   - GitHub  
   - Jenkins  
   - Docker
-
----
-
-
-## 📈 **GitHub Stats**
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JorgCaceres&theme=gruvbox)
-
-### 📊 **Most Used Languages**
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgCaceres&layout=compact&theme=gruvbox)](https://github.com/JorgCaceres/github-readme-stats)
-
 ---
 
 ## 📬 **¡Contact me!**
