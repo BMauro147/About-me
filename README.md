@@ -47,7 +47,7 @@
 ## 📬 **¡Contact me!**
 
 - **LinkedIn**: [Mi perfil de LinkedIn](https://www.linkedin.com/in/maurobecerragalvan/)  
-- **Correo electrónico**: [maurobecerra65@gmail.com](mailto:maurobecerra65@gmail.com)  
+- **Email**: [maurobecerra65@gmail.com](mailto:maurobecerra65@gmail.com)  
 
 ---
 
